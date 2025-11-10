@@ -1,3 +1,5 @@
+# Using CNN and MNIST dataset, perform digit classification
+
 import keras
 from keras.datasets import mnist
 from keras.models import Sequential
