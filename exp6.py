@@ -1,3 +1,4 @@
+# Using IMDB review dataset,perform sentiment classification using RNN.
 from keras.datasets import imdb
 from keras.preprocessing import sequence
 from keras.models import Sequential
