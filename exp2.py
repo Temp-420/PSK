@@ -1,4 +1,5 @@
 # Importing modules
+# Implement a two class neural network with a hidden layer on any standard dataset
 import tensorflow as tf
 import numpy as np
 from tensorflow.keras.models import Sequential
