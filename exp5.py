@@ -1,3 +1,4 @@
+# Using IMDB review dataset,perform sentiment classification using LSTM and BiLSTM and compare result
 import numpy as np
 from keras.datasets import imdb
 from keras.preprocessing import sequence
