@@ -1,3 +1,4 @@
+# Develop an Autoencoder for handwritten digits dataset MNIST.
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras.layers import (
     Dense, Input, Flatten,
